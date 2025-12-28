@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "LEMON MELON COOKIE",
+  "base_artist": "TAK",
+  "createdAt": "2025-12-28T09:03:25.315423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LEMON MELON COOKIE",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/01_LEMON_MELON_COOKIE_TAK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LEMON MELON COOKIE (feat. Hatsune Miku)",
+      "artist": "TAK",
+      "has_synced": true,
+      "path": "select/02_LEMON_MELON_COOKIE_(feat._Hatsune_Miku)_TAK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LEMON MELON COOKIE",
+      "artist": "Tak, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_LEMON_MELON_COOKIE_Tak,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LEMON MELON COOKIE",
+      "artist": "TAK, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_LEMON_MELON_COOKIE_TAK,_初音ミク.txt"
+    }
+  ]
+}
